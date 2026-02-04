@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "363665765741",
+    "project_id": "ridebook-3a6b3",
+    "storage_bucket": "ridebook-3a6b3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363665765741:android:725c956a4570c916381664",
+        "android_client_info": {
+          "package_name": "com.ridebooking.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKR--06xqs0EjUQ-pm65DM2sn5vCk8Z40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
